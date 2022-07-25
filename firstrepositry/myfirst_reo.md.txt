@@ -1,0 +1,2 @@
+this is read me file
+we are in git 101 session
