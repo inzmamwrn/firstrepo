@@ -1,2 +1,2 @@
-this is read me file
+this is not a read me file
 we are in git 101 session
